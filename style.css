@@ -1,0 +1,60 @@
+body {
+    background-image: url('https://img.itch.zone/aW1nLzI5MjUxNjkuZ2lm/original/9jav5I.gif');
+    background-size: cover;
+    font-family: Verdana;
+}
+
+table {
+    background-color: rgba(118, 80, 117, 0.027);
+    backdrop-filter: blur(10px);
+    border-top: rgba(255, 255, 255, 0.4);
+    border-left: rgba(255, 255, 255, 0.3);
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.089);
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.left-column {
+    width: 30%;
+    vertical-align: top;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 20px 0 0 20px;
+}
+
+.right-column {
+    width: 70%;
+    vertical-align: top;
+    padding: 20px;
+    border-radius: 0 20px 20px 0;
+}
+
+.profile-pic {
+    border-radius: 12%;
+    object-fit: cover;
+    border: 4px solid #7C4585;
+    width: 150px;
+    height: 150px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+.bruh {
+    color: #fff;
+}
